@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shakilahmedbhuiyan
 - 👀 I’m interested in php and laravel
-- 🌱 I’m currently learning laravel
+- 👀 vastly intended to learn Vue JS
+- 🌱 Amature developer in laravel
+- 🌱 For front-end I'm using Livewire with alpine js
 - 📫 shakilahmed22@yahoo.com
 
 <!---
