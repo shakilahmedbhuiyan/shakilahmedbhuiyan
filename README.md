@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">A passionate Laravel developer</h3>
 
-- 🔭 I’m currently working on [Crown Restaurant](github.com/shakilahmedbhuiyan/crown)
+- 🔭 I’m currently working on [Crown Restaurant](crown)
 
 - 🌱 I’m currently learning **alpine JS, Livewire, VUE**
 
