@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **shakilahmed22@yahoo.com**
 
-- 👀 I’m interested in **php and laravel**
+- 👀 I’m interested in **php and Laravel**
 
 - 👀 vastly intended to learn **Vue JS**
+- 👀 find me on Google with the keyword [Tall Stack Developer](https://shakil.retrievalit.xyz/laravel/tall-stack-developer/) 
 
 
 
