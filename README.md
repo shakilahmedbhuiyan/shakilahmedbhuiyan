@@ -14,7 +14,7 @@
 - 👀 I’m interested in **php and Laravel**
 
 - 👀 vastly intended to learn **Vue JS**
-- 👀 find me on Google with the keyword [Tall Stack Developer](https://shakil.retrievalit.xyz/laravel/tall-stack-developer/) 
+- 👀 find me on Google with the keyword [Tall Stack Developer BD](https://shakil.retrievalit.xyz/laravel/tall-stack-developer/) 
 
 
 
